@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
-
 ###
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
@@ -12,7 +11,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp logo" />
 </div>
-
 ###
 <div align="center">
   <a href="https://www.instagram.com/saivatsall" target="_blank">
@@ -34,21 +32,12 @@
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
   </a>
 </div>
-
 ###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SaiVatsal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app?username=SaiVatsal&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
-
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaiVatsal&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&title_color=58a6ff&icon_color=ffffff" height="150" alt="SaiVatsal github stats" />
 </div>
-
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiVatsal/SaiVatsal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiVatsal/SaiVatsal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SaiVatsal/SaiVatsal/output/github-snake.svg" />
-</picture>
