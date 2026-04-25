@@ -14,5 +14,5 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saivatsal&show_icons=true&locale=en" alt="saivatsal github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saivatsal&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="saivatsal github stats" />
 </p>
