@@ -27,5 +27,5 @@
 </table>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiVatsal&show_icons=true&locale=en" alt="SaiVatsal github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiVatsal&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&title_color=58a6ff&icon_color=ffffff" alt="SaiVatsal github stats" />
 </p>
