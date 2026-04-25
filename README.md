@@ -32,12 +32,3 @@
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
   </a>
 </div>
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SaiVatsal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=SaiVatsal&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiVatsal&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&title_color=58a6ff&icon_color=ffffff" height="150" alt="SaiVatsal github stats" />
-</div>
