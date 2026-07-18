@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Namaste 🙏  ?</h1>
 ###
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
@@ -11,7 +11,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp logo" />
 </div>
-###
+
 <div align="center">
   <a href="https://www.instagram.com/saivatsall" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
