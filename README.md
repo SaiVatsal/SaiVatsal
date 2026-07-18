@@ -1,5 +1,6 @@
-<h1 align="center">Namaste 🙏  ?</h1>
-###
+<h1 align="center">Namaste 🙏  </h1>
+
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
   <img width="12" />
