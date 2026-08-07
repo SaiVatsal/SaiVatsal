@@ -9,8 +9,6 @@
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp logo" />
 </div>
 
 <div align="center">
